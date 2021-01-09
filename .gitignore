@@ -1,0 +1,5 @@
+# Project exclude paths
+/Hello/target/
+/mavenTest01/target/
+/MavenWeb/target/
+/out/
